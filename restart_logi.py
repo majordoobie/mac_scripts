@@ -7,7 +7,7 @@ Add to the TERMINATION_LIST the cmd_line string to look for.
 """
 
 import psutil
-from time improt sleep
+from time import sleep
 from sys import argv
 
 # List of cmd_line string to compare against
